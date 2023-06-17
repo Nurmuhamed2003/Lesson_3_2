@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_0">0</string>
+    <string name="_1">+1</string>
+    <string name="minus1" />
+    <string name="plus1" />
+    <string name="minus">Минус 1</string>
+    <string name="plus">Плюс 1</string>
+</resources>
